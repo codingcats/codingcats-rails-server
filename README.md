@@ -30,5 +30,5 @@ sudo apt-get install build-essential libssl-dev libyaml-dev libreadline-dev open
 Install Ruby
 
 ```bash
-wget http://cache.ruby-lang.org/pub/ruby/2.2/ruby-2.2.1.tar.gz
+wget http://cache.ruby-lang.org/pub/ruby/2.1/ruby-2.1.5.tar.gz
 ```
